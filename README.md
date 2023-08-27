@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rightleft-123&repo=traditional-object-detection)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rightleft-123&repo=SRP-data-module)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rightleft-123&repo=traditional-object-detection)](https://github.com/rightleft-123/traditional-object-detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rightleft-123&repo=SRP-data-module)](https://github.com/rightleft-123/SRP-data-module)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rightleft-123)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rightleft-123)](https://github.com/rightleft-123)
